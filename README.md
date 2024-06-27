@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @richardsebastien
 - 👀 I’m interested in DB, AI...
-- 🌱 I’m currently learning Java
+- 🌱 I am currently an intern at [LIS Lab](https://www.lis-lab.fr/) for [Naval Group](https://www.naval-group.com)
 - 📫 How to reach me : contact@richardsebastien.fr
-- ⚡ Fun fact: Don't know how to introduce myself
 
 <!---
 richardsebastien/richardsebastien is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
